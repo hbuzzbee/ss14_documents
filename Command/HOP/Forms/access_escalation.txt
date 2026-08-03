@@ -1,0 +1,29 @@
+[color=#1b67a5][color=#cb0000]▀[/color] █▄      █ [color=#cb0000]▀[/color]      [head=3]Access Escalation Form[/head]
+    █▀█▄█           Office of the Head of Personnel
+[color=#cb0000]▄[/color] █      ▀█ [color=#cb0000]▄[/color]      Filing Officer: [/color]
+[bold][color=#1b487e]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold]
+
+[bold]Applicant Name:[/bold]
+
+[bold]Applicant Position:[/bold]
+
+[bold]Requested accesses:[/bold]
+[italic](Select One)[/italic]
+[ ] All Access [color=#cb0000][italic](Requires C.R.A.)[/italic][/color]
+[ ] Command room access: [color=#cb0000][italic](Requires C.R.A.)[/italic][/color]
+[ ] Department:
+[ ] Individual Accesses:
+
+[bold]Justification for Access:[/bold]
+
+[bold]Filed in conjunction with:[/bold]
+[italic](Select all applicable)[/italic]
+[ ] Title Change Form
+[ ] Uniform Change Form
+[ ] Command Responsibility Affidavit (C.R.A.)
+
+[bold]Statement of Responsibility[/bold]
+I have filed the above form and any other associated forms truthfully and accept the responsibilities associated with the requested accesses. I assume responsibility for any associated administrative fees.
+[italic] (Sign here) [/italic] ____________________
+
+[color=#1b67a5]Stamp required by applicable department head. If department head is unavailable, Captain or Head of Personnel stamp can be substituted[/color]
