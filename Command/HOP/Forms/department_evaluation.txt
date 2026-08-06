@@ -1,0 +1,37 @@
+[color=#1b67a5][color=#cb0000]▀[/color] █▄      █ [color=#cb0000]▀[/color]      [head=3]Department Evaluation Form[/head]
+    █▀█▄█           Office of the Head of Personnel
+[color=#cb0000]▄[/color] █      ▀█ [color=#cb0000]▄[/color]      Filing Officer: [/color]
+[bold][color=#1b487e]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold]
+[bold]Department:[/bold]
+[ ] Security
+[ ] Medical
+[ ] Engineering
+[ ] Science
+[ ] Cargo
+[ ] Service
+
+[bold]Number of employees:[/bold]___
+
+
+[bold]Please rate the profitability of the department:[/bold]
+                       1    [ ]    [ ]    [ ]    [ ]    [ ]    5
+[bold]Please rate the efficiency of the department:[/bold]
+                       1    [ ]    [ ]    [ ]    [ ]    [ ]    5
+[bold]Please rate the employee enthusiasm of the department:[/bold]
+                       1    [ ]    [ ]    [ ]    [ ]    [ ]    5
+[bold]Please rate the cleanliness of the department:[/bold]
+                       1    [ ]    [ ]    [ ]    [ ]    [ ]    5
+
+[bold]What is the department excelling at?[/bold]
+
+[bold]What needs improvement within this department?[/bold]
+
+[bold]Are there any employees which stood out to you? Why?[/bold]
+
+[bold]Additional Comments:[/bold]
+
+                                      [bold][head=3]Overall Score[/head][/bold]
+[bold][color=#1b487e]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold]
+             1    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    10
+
+[color=#1b67a5]Stamp by department head required to certify acknowledgement of evaluation[/color]
